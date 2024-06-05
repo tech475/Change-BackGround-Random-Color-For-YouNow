@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Change background color of www.younow.com to a random hexadecimal color
-// @author       You
+// @author       tech475
 // @match        https://www.younow.com/*
 // @grant        none
 // ==/UserScript==
